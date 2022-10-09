@@ -1,0 +1,13 @@
++ new successes/last issue resolved
+= obstacles overcame in same version
+- newfound issues
+
+v1.0
++ Sucessfully created evenly spaced grid
+- Takes too much time drawing, maximum of 60 dots per second - as per 60 fps cap
+
+v2.0
++ created grid of any size instantly
+= odd extra spacing at x+ and y+ for bigger values
+
+v3.0
